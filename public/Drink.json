@@ -1,0 +1,98 @@
+[
+    {
+        "id": 101,
+        "name": "Blueberry Frappe",
+        "price": 3,
+        "discount": 10,
+        "description": "A creamy and refreshing blueberry frappe blended with milk and ice, topped with a smooth blueberry flavor.",
+        "image": "https://i.pinimg.com/736x/e3/78/59/e378592766cf9f7b8a5e30aae5696355.jpg"
+    },
+    {
+        "id": 102,
+        "name": "ORIO Frappe",
+        "price": 3,
+        "discount": 15,
+        "description": "A rich and creamy Oreo frappe blended with milk, ice, and crunchy Oreo cookies for a delicious treat.",
+        "image": "https://i.pinimg.com/736x/37/64/cd/3764cd22d81726464a27c2e51f98fa91.jpg"
+    },
+    {
+        "id": 103,
+        "name": "Strawberry Frappe",
+        "price": 3,
+        "discount": 20,
+        "description": "A sweet and refreshing strawberry frappe blended with fresh strawberry flavor, milk, and ice.",
+        "image": "https://i.pinimg.com/1200x/02/17/18/021718ab1c34532dfaebe159f9b5e6c2.jpg"
+    },
+    {
+        "id": 104,
+        "name": "Kiwi Frappe",
+        "price": 3,
+        "discount": 5,
+        "description": "A refreshing kiwi frappe with a sweet and slightly tangy flavor, blended with ice for a cool drink.",
+        "image": "https://i.pinimg.com/1200x/15/83/f3/1583f31c9be7184ea7a9c9783d0f17e9.jpg"
+    },
+    {
+        "id": 105,
+        "name": "Brigadeiro Frappuccino",
+        "price": 4,
+        "discount": 10,
+        "description": "A rich chocolate frappuccino inspired by Brazilian brigadeiro, blended into a creamy and indulgent drink.",
+        "image": "https://i.pinimg.com/1200x/62/89/fb/6289fbf5915a33c5eeddb3d89be5fc90.jpg"
+    },
+    {
+        "id": 106,
+        "name": "Iced Latte",
+        "price": 4,
+        "discount": 12,
+        "description": "Smooth espresso combined with chilled milk and ice for a creamy and refreshing coffee experience.",
+        "image": "https://i.pinimg.com/736x/d3/19/d8/d319d848b1094bb2296655fa90e5d365.jpg"
+    },
+    {
+        "id": 107,
+        "name": "Matcha",
+        "price": 5,
+        "discount": 18,
+        "description": "Smooth and earthy Japanese matcha blended with creamy milk for a refreshing and flavorful drink.",
+        "image": "https://i.pinimg.com/736x/72/1f/14/721f142caee74f63563ee7106f0ac3cd.jpg"
+    },
+    {
+        "id": 108,
+        "name": "Black Americano",
+        "price": 4,
+        "discount": 8,
+        "description": "A bold and smooth coffee made with rich espresso and hot water, offering a strong and classic flavor.",
+        "image": "https://i.pinimg.com/736x/ff/3a/49/ff3a4923ecff36e13f83be42b84fe9c5.jpg"
+    },
+    {
+        "id": 109,
+        "name": "Hot Chocolate",
+        "price": 3,
+        "discount": 25,
+        "description": "A warm and comforting chocolate drink made with rich cocoa and creamy milk, perfect for a cozy moment.",
+        "image": "https://i.pinimg.com/736x/7f/38/f2/7f38f25212a86ef5052a994a98ae1616.jpg"
+    },
+    {
+        "id": 110,
+        "name": "Hot Flat White Coffee",
+        "price": 3.50,
+        "discount": 15,
+        "description": "A smooth and velvety coffee made with rich espresso and steamed milk, creating a balanced creamy flavor.",
+        "image": "https://i.pinimg.com/736x/c2/b0/58/c2b0588fee8cec7f5c9c4428f18692f8.jpg"
+    },
+    {
+        "id": 111,
+        "name": "Hot Americano",
+        "price": 3,
+        "discount": 20,
+        "description": "A classic hot coffee made with espresso and hot water, delivering a bold, rich, and smooth taste.",
+        "image": "https://i.pinimg.com/736x/56/aa/dd/56aadd960f79459027ceb5619372ed68.jpg"
+    },
+    {
+        "id": 112,
+        "name": "Hot Latte",
+        "price": 3,
+        "discount": 10,
+        "description": "A warm and creamy latte made with freshly brewed espresso and steamed milk for a smooth, comforting taste.",
+        "image": "https://i.pinimg.com/736x/e2/20/9c/e2209c26d834f67fa1da07be76540647.jpg"
+    }
+]

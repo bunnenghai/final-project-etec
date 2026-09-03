@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Chicken Steak",
+        "price": 7,
+        "discount": 10,
+        "description": "Juicy grilled chicken steak seasoned with herbs and spices, served with fresh vegetables.",
+        "image": "https://i.pinimg.com/1200x/fe/65/fd/fe65fd37f7e8627b8d1f7951e7f3c8d1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Chicken Nuggets",
+        "price": 4,
+        "discount": 15,
+        "description": "Crispy golden chicken nuggets made with tender chicken, perfect with your favorite dipping sauce.",
+        "image": "https://i.pinimg.com/736x/c2/95/df/c295df0b9e6d1d8d964a4fff7a2079db.jpg"
+    },
+    {
+        "id": 3,
+        "name": "BBQ Chicken Drumsticks",
+        "price": 4,
+        "discount": 20,
+        "description": "Tender chicken drumsticks grilled and coated with a smoky, sweet, and savory BBQ sauce.",
+        "image": "https://i.pinimg.com/1200x/8d/26/76/8d2676036364aa5a2f0cc44bd8654d64.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Kimchi Fried Rice",
+        "price": 2.50,
+        "discount": 5,
+        "description": "Flavorful Korean fried rice cooked with spicy kimchi, vegetables, and savory seasonings.",
+        "image": "https://i.pinimg.com/1200x/7c/8e/ac/7c8eac130bbcf6ae26ff653916d52526.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Salmon Poke",
+        "price": 2,
+        "discount": 10,
+        "description": "Fresh salmon served over rice with vegetables and a flavorful poke sauce.",
+        "image": "https://i.pinimg.com/1200x/10/e2/0a/10e20add95fd4c6e33dff94d5ae0a30e.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Salmon Avocado Poke",
+        "price": 2,
+        "discount": 12,
+        "description": "Fresh salmon and creamy avocado served with rice, vegetables, and a delicious poke dressing.",
+        "image": "https://i.pinimg.com/1200x/32/6e/59/326e59db9e741997438d5e7faf484bd2.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Salmon Poke",
+        "price": 2,
+        "discount": 18,
+        "description": "Fresh and tender salmon poke combined with rice, vegetables, and a savory sauce.",
+        "image": "https://i.pinimg.com/1200x/f5/63/ce/f563ced4e6959c2759ae6c1c15a5b7d8.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Chicken Avocado Salad",
+        "price": 2,
+        "discount": 8,
+        "description": "Fresh salad with tender chicken, creamy avocado, crisp vegetables, and a light dressing.",
+        "image": "https://i.pinimg.com/1200x/d9/c2/05/d9c205fa8bfd81fbe00e26575d356249.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Tokbokki",
+        "price": 3,
+        "discount": 25,
+        "description": "Popular Korean rice cakes cooked in a spicy, sweet, and savory gochujang sauce.",
+        "image": "https://i.pinimg.com/736x/04/02/9b/04029bba51db687481d76fe459fff5a5.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Korean Sushi Rolls",
+        "price": 3.50,
+        "discount": 15,
+        "description": "Korean-style sushi rolls filled with rice, fresh vegetables, and tasty savory ingredients.",
+        "image": "https://i.pinimg.com/1200x/f5/ed/16/f5ed169a2833de63d0ae850f4abbcb9d.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Bibimbap",
+        "price": 3,
+        "discount": 20,
+        "description": "Traditional Korean mixed rice topped with vegetables, savory beef, egg, and spicy sauce.",
+        "image": "https://i.pinimg.com/1200x/8b/02/54/8b0254fbca9f742ef98632634bc43da9.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Kimchi Jigae",
+        "price": 3,
+        "discount": 10,
+        "description": "Warm and comforting Korean kimchi stew made with spicy kimchi, tofu, and savory broth.",
+        "image": "https://i.pinimg.com/736x/16/39/79/163979c0ba75f8ab4a2ababe6734f674.jpg"
+    }
+]
