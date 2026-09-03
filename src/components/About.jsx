@@ -5,7 +5,7 @@ function About() {
 
     return (
 
-        <div id="about" className='bg-light scroll-mt-20'>
+        <div id="about" className='bg-light scroll-mt-20 py-3'>
 
             <div className='container'>
 
