@@ -31,7 +31,7 @@ function Food() {
 
                             {/* detail */}
                             <div className='card-footer py-3 bg-danger text-white rounded-bottom'>
-                                <h6 className='m-0 p-1'>{item.name}</h6>
+                                <h6 className='m-0 p-1 line-clamp-1'>{item.name}</h6>
                                 <p className='m-0 p-0.5 opacity-50 line-clamp-2'>{item.description}</p>
                                 <p className='m-0 p-1 text-warning font-bold'>$ {item.price}</p>
                                 <div className='w-full flex justify-content-between gap-2 mt-2'>
