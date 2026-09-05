@@ -17,7 +17,7 @@ function Drink() {
     return (
         <div id='drink' className='container-fluid h-auto text-center scroll-mt-20'>
             <span className='badge bg-warning text-dark px-3 py-2 my-3 rounded-pill'>
-                BITE<span className='text-danger'>NOW</span> FOOD
+                BITE<span className='text-danger'>NOW</span> DRINK
             </span>
             <div className='row m-auto' style={{ width: '70%' }}>
                 {drink.map((item) => (

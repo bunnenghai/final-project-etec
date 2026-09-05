@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link, useNavigate } from 'react-router-dom'
+import { AiOutlineClose } from "react-icons/ai";
 
 function Login() {
     const navigate = useNavigate()
@@ -10,7 +11,12 @@ function Login() {
 
     return (
         <div className='w-full flex justify-center items-center bg-light' style={{ height: '100vh' }}>
-            <div className='w-75 h-auto bg-white flex shadow-lg rounded-4 overflow-hidden'>
+            <div className='w-75 h-auto bg-white flex shadow-lg rounded-4 overflow-hidden relative'>
+                <Link to={'/'}>
+                    <div className='absolute text-gray-400 hover:text-gray-700 top-3 right-3 fs-5'>
+                        <AiOutlineClose />
+                    </div>
+                </Link>
                 <div className='w-50 bg-warning p-5 flex flex-column justify-center items-center text-center'>
                     <h1 className='fw-bold text-danger mb-2'>BiteNow</h1>
                     <p className='text-dark fs-5'>Your favorite food, just a bite away!</p>

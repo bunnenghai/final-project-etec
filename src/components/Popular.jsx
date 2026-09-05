@@ -1,14 +1,13 @@
 import React from 'react'
-import { useCart } from './CartContext';
 
 function Popular() {
-    const { addToCart } = useCart();
-
     return (
-        <div id='popular' className='scroll-mt-20 m-auto mb-5' style={{ width: '68%' }}>
-            <h1 style={{ fontWeight: "bolder" }} className='text-center mb-4'>
-                Popular Food & Drink
-            </h1>
+        <div id='popular' className='scroll-mt-20 m-auto py-3 mb-5' style={{ width: '68%' }}>
+            <div className='w-full flex justify-content-center items-center mb-3'>
+                <span className='badge bg-warning text-dark px-3 py-2 rounded-pill w-auto m-auto'>
+                    <span className='text-danger'>POPULAR</span>  FOOD & DRINK
+                </span>
+            </div>
             {/* 1st */}
             <div className='row align-items-center g-4 mb-5'>
                 {/* left */}

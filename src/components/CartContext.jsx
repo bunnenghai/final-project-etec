@@ -46,7 +46,17 @@ export const CartProvider = ({ children }) => {
         setCart((preCart) => preCart.filter((item) => item.id !== id))
     }
 
-    return <CartContext value={{ cart, setCart, addToCart, increment, decrement, removeCart }}>
+
+    const getCartCount = () => {
+
+        return cart.reduce(
+            (total, item) => total + item.quantity,
+            0
+        );
+
+    };
+
+    return <CartContext value={{ cart, setCart, addToCart, increment, decrement, removeCart,getCartCount }}>
         {children}
     </CartContext>
 }

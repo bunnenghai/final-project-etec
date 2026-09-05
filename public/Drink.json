@@ -41,7 +41,7 @@
     },
     {
         "id": 106,
-        "name": "Iced Latte",
+        "name": "Iced Latte Frappe",
         "price": 4,
         "discount": 12,
         "description": "Smooth espresso combined with chilled milk and ice for a creamy and refreshing coffee experience.",
@@ -49,7 +49,7 @@
     },
     {
         "id": 107,
-        "name": "Matcha",
+        "name": "Strawberry Frappe",
         "price": 5,
         "discount": 18,
         "description": "Smooth and earthy Japanese matcha blended with creamy milk for a refreshing and flavorful drink.",
