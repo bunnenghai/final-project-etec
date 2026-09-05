@@ -23,7 +23,7 @@ function Login() {
 
                     <img
                         className='w-75 rounded-circle bg-white mt-3 shadow'
-                        src="/public/image/logo.png"
+                        src="/image/logo.png"
                         alt="Food"
                     />
 

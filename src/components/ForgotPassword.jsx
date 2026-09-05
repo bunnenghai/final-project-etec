@@ -21,7 +21,7 @@ function ForgotPassword() {
                     <p className='text-dark fs-5'>Don't worry, we can help you!</p>
                     <img
                         className='w-75 rounded-circle bg-white mt-3 shadow'
-                        src="/public/image/logo.png"
+                        src="/image/logo.png"
                         alt="Food"
                     />
                     <p className='mt-4 text-dark'>🍜 Food &nbsp; 🍲 Soup &nbsp; 🥤 Drinks</p>
